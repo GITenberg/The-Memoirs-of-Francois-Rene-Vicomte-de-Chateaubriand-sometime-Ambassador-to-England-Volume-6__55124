@@ -1,5 +1,8 @@
 _repo: The-Memoirs-of-Francois-Rene-Vicomte-de-Chateaubriand-sometime-Ambassador-to-England-Volume-6__55124
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55124-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Teixeira de Mattos, Alexander
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '48052'
     url: http://www.gutenberg.org/2009/agents/48052
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55124#The-Memoirs-of-Francois-Rene-Vicomte-de-Chateaubriand-sometime-Ambassador-to-England-Volume-6_
 gutenberg_issued: '2017-07-16'
 gutenberg_type: Text
 identifiers:
